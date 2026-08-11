@@ -8,7 +8,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Fog": {
@@ -20,7 +20,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Rain": {
@@ -32,7 +32,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "DryThunderstorm": {
@@ -44,7 +44,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "RainyThunderstorm": {
@@ -56,7 +56,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "FoggyRain": {
@@ -68,7 +68,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "SnowHard": {
@@ -80,7 +80,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "SnowGentle": {
@@ -92,7 +92,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "BloodRain": {
@@ -102,9 +102,21 @@
     "BaseCost": 600,
     "KarmaType": "Doom",
     "EventCap": 3,
-    "Enabled": false,
+    "Enabled": true,
     "ModSource": "Anomaly",
-    "modactive": true,
+    "modactive": false,
+    "Version": 1
+  },
+  "Windy": {
+    "DefName": "Windy",
+    "Label": "windy",
+    "Description": "Strong winds reduce movement speed.\n\n<i><color=#66E0E4FF>Odyssey</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": true,
+    "ModSource": "Odyssey",
+    "modactive": false,
     "Version": 1
   },
   "ToxRain": {
@@ -116,7 +128,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Sandstorm": {
@@ -128,7 +140,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "BlindFog": {
@@ -140,7 +152,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Overcast": {
@@ -152,7 +164,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Blizzard": {
@@ -164,7 +176,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "TorrentialRain": {
@@ -176,7 +188,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VPE_Hurricane": {
@@ -186,105 +198,189 @@
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Vanilla Psycasts Expanded",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
-  "Windy": {
-    "DefName": "Windy",
-    "Label": "windy",
-    "Description": "A clear, windy day, great for turbines, not so great for shooting.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
+  "AB_RedFog": {
+    "DefName": "AB_RedFog",
+    "Label": "red fog",
+    "Description": "Red fog reduces the accuracy of ranged weapons.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": false,
+    "Version": 1
+  },
+  "AB_VolcanicAsh": {
+    "DefName": "AB_VolcanicAsh",
+    "Label": "volcanic ash",
+    "Description": "A mixture of rock, mineral, and glass particles expelled from a volcano during a volcanic eruption. This creates a thick atmospheric layer that reduces ranged accuracy.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
     "BaseCost": 175,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": false,
     "Version": 1
   },
-  "Cloudy": {
-    "DefName": "Cloudy",
-    "Label": "cloudy",
-    "Description": "A cloudy day, lowers brightness.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
+  "AB_VolcanicAshRain": {
+    "DefName": "AB_VolcanicAshRain",
+    "Label": "volcanic ash with rain",
+    "Description": "A mixture of rock, mineral, and glass particles expelled from a volcano during a volcanic eruption, precipitating with rain. This creates a thick atmospheric layer that reduces ranged accuracy.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": false,
+    "Version": 1
+  },
+  "AB_ForsakenNight": {
+    "DefName": "AB_ForsakenNight",
+    "Label": "forsaken fog",
+    "Description": "A preternatural darkness that seeps into your very soul. Even during the \"day\" brightness will be very low, so lighting is going to be absolutely essential. Nights are going to be REALLY dark.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
     "BaseCost": 175,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": false,
     "Version": 1
   },
-  "FogSnow": {
-    "DefName": "FogSnow",
-    "Label": "fog snow",
-    "Description": "Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down, fog reduces sight.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
+  "AB_ForsakenRainyNight": {
+    "DefName": "AB_ForsakenRainyNight",
+    "Label": "forsaken rain",
+    "Description": "A preternatural darkness that seeps into your very soul. A freezing rain of supercooled water has started to drop from the darkened sky.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": false,
+    "Version": 1
+  },
+  "AB_ForsakenThunderstorm": {
+    "DefName": "AB_ForsakenThunderstorm",
+    "Label": "forsaken thunderstorm",
+    "Description": "A preternatural darkness that seeps into your very soul. Now with a dry thunderstorm! Isn't it great?\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": false,
+    "Version": 1
+  },
+  "AB_AcidRainWeather": {
+    "DefName": "AB_AcidRainWeather",
+    "Label": "acid rain",
+    "Description": "Toxic gas emissions from nearby volcanically active calderas are precipitating in the form of dangerous acid rain. Acid rain has an adverse impact on flora and fauna, killing insect and aquatic life-forms as well as having impacts on human health. Acid rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": false,
+    "Version": 1
+  },
+  "AB_PetalStorms": {
+    "DefName": "AB_PetalStorms",
+    "Label": "petal storm",
+    "Description": "A flurry of flower petals that improves mood but reduces visibility.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": false,
+    "Version": 1
+  },
+  "AB_ForsakenNight_Alternate": {
+    "DefName": "AB_ForsakenNight_Alternate",
+    "Label": "forsaken fog",
+    "Description": "A preternatural darkness that seeps into your very soul. Even during the \"day\" brightness will be very low, so lighting is going to be absolutely essential. Nights are going to be REALLY dark.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": false,
+    "Version": 1
+  },
+  "AB_ForsakenRainyNight_Alternate": {
+    "DefName": "AB_ForsakenRainyNight_Alternate",
+    "Label": "forsaken rain",
+    "Description": "A preternatural darkness that seeps into your very soul. A freezing rain of supercooled water has started to drop from the darkened sky.\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": false,
+    "Version": 1
+  },
+  "AB_ForsakenThunderstorm_Alternate": {
+    "DefName": "AB_ForsakenThunderstorm_Alternate",
+    "Label": "forsaken thunderstorm",
+    "Description": "A preternatural darkness that seeps into your very soul. Now with a dry thunderstorm! Isn't it great?\n\n<i><color=#66E0E4FF>Alpha Biomes</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": false,
+    "Version": 1
+  },
+  "RG_Windy": {
+    "DefName": "RG_Windy",
+    "Label": "Breezy ",
+    "Description": "Consistent wind that reduces ranged weapon accuracy.\n\n<i><color=#66E0E4FF>ReGrowth 2</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "ReGrowth 2",
+    "modactive": false,
+    "Version": 1
+  },
+  "RG_Drizzle": {
+    "DefName": "RG_Drizzle",
+    "Label": "drizzle",
+    "Description": "Very light but prominent rain which slightly reduces ranged weapon accuracy and movement speed.\n\n<i><color=#66E0E4FF>ReGrowth 2</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "ReGrowth 2",
+    "modactive": false,
+    "Version": 1
+  },
+  "RG_FogStorm": {
+    "DefName": "RG_FogStorm",
+    "Label": "fog storm",
+    "Description": "Rolling fog and heavy wind reduces the accuracy of ranged weapons.\n\n<i><color=#66E0E4FF>ReGrowth 2</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "ReGrowth 2",
+    "modactive": false,
+    "Version": 1
+  },
+  "RG_FoggySnow": {
+    "DefName": "RG_FoggySnow",
+    "Label": "foggy snow",
+    "Description": "Heavy snow with fog that reduces ranged weapon accuracy, extinguishes fires and reduces movement speed.\n\n<i><color=#66E0E4FF>ReGrowth 2</color></i>",
     "BaseCost": 200,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
-    "Version": 1
-  },
-  "Dust": {
-    "DefName": "Dust",
-    "Label": "dust",
-    "Description": "Dust reduces the accuracy of ranged weapons.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 175,
-    "KarmaType": "Neutral",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
-    "Version": 1
-  },
-  "DryDuststorm": {
-    "DefName": "DryDuststorm",
-    "Label": "dry duststorm",
-    "Description": "Dry duststorms are dangerous because the lightning can start fires and there is no rain to put them out.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 300,
-    "KarmaType": "Bad",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
-    "Version": 1
-  },
-  "DoubleRainbow": {
-    "DefName": "DoubleRainbow",
-    "Label": "double rainbow",
-    "Description": "A double rainbow. The weather is soothing.\n\n<i><color=#66E0E4FF>Seasonal Weather (Continued)</color></i>",
-    "BaseCost": 150,
-    "KarmaType": "Neutral",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Seasonal Weather (Continued)",
-    "modactive": true,
-    "Version": 1
-  },
-  "VPE_RadioactiveFog": {
-    "DefName": "VPE_RadioactiveFog",
-    "Label": "radioactive fog",
-    "Description": "A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates.\n\n<i><color=#66E0E4FF>Vanilla Furniture Expanded - Power</color></i>",
-    "BaseCost": 150,
-    "KarmaType": "Neutral",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "Vanilla Furniture Expanded - Power",
-    "modactive": true,
-    "Version": 1
-  },
-  "SnowyThunderStorm": {
-    "DefName": "SnowyThunderStorm",
-    "Label": "thundersnow",
-    "Description": "A rare winter phenomenon where heavy snow falls with lightning and thunder. The snow reduces visibility and movement while lightning poses fire risks.\n\n<i><color=#66E0E4FF>(CAP) Thunder Snow</color></i>",
-    "BaseCost": 300,
-    "KarmaType": "Bad",
-    "EventCap": 3,
-    "Enabled": true,
-    "ModSource": "[CAP] Thunder Snow",
-    "modactive": true,
+    "Enabled": false,
+    "ModSource": "ReGrowth 2",
+    "modactive": false,
     "Version": 1
   },
   "VGE_DustCloud": {
@@ -294,7 +390,7 @@
     "BaseCost": 175,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Vanilla Gravship Expanded - Chapter 1",
     "modactive": false,
     "Version": 1
@@ -306,8 +402,44 @@
     "BaseCost": 600,
     "KarmaType": "Doom",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Vanilla Gravship Expanded - Chapter 1",
+    "modactive": false,
+    "Version": 1
+  },
+  "VPE_RadioactiveFog": {
+    "DefName": "VPE_RadioactiveFog",
+    "Label": "radioactive fog",
+    "Description": "A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates.\n\n<i><color=#66E0E4FF>Vanilla Furniture Expanded - Power</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Furniture Expanded - Power",
+    "modactive": false,
+    "Version": 1
+  },
+  "VQEA_AncientComplex": {
+    "DefName": "VQEA_AncientComplex",
+    "Label": "ancient complex",
+    "Description": null,
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Quests Expanded - Ancients",
+    "modactive": false,
+    "Version": 1
+  },
+  "Sinnamon_Windy": {
+    "DefName": "Sinnamon_Windy",
+    "Label": "whirlwind",
+    "Description": "Wind is increasing the wind turbine output.\n\n<i><color=#66E0E4FF>More Ritual Rewards</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "More Ritual Rewards",
     "modactive": false,
     "Version": 1
   },
@@ -318,9 +450,9 @@
     "BaseCost": 175,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VEE_Swelter": {
@@ -330,9 +462,9 @@
     "BaseCost": 175,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VEE_Inferno": {
@@ -342,9 +474,9 @@
     "BaseCost": 175,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VEE_PsychicRain": {
@@ -354,9 +486,9 @@
     "BaseCost": 150,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VEE_LongNight": {
@@ -366,9 +498,81 @@
     "BaseCost": 175,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": true,
+    "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": true,
+    "modactive": false,
+    "Version": 1
+  },
+  "VEE_FertileRains": {
+    "DefName": "VEE_FertileRains",
+    "Label": "fertile rain",
+    "Description": "Unusually nutrient-rich rainfall is sweeping across the region, boosting plant growth for its duration.\n\n<i><color=#66E0E4FF>Vanilla Landmarks Expanded</color></i>",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Landmarks Expanded",
+    "modactive": false,
+    "Version": 1
+  },
+  "VEE_DustStorm": {
+    "DefName": "VEE_DustStorm",
+    "Label": "dust storm",
+    "Description": "A choking wall of wind-driven dust sweeps across the land, reducing visibility, slowing movement, and scouring anything left exposed.\n\n<i><color=#66E0E4FF>Vanilla Landmarks Expanded</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Landmarks Expanded",
+    "modactive": false,
+    "Version": 1
+  },
+  "VPEH_Bloodstorm": {
+    "DefName": "VPEH_Bloodstorm",
+    "Label": "bloodstorm",
+    "Description": "Mystical downpour of blood, caused by forbidden hemosage psycast. While non-hemogenic individuals are choking on blood, sanguophages regenerate hemogen and can cast psycasts without worrying about psychic heat.\n\n<i><color=#66E0E4FF>Vanilla Psycasts Expanded - Hemosage</color></i>",
+    "BaseCost": 600,
+    "KarmaType": "Doom",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Psycasts Expanded - Hemosage",
+    "modactive": false,
+    "Version": 1
+  },
+  "VQE_AncientSilo": {
+    "DefName": "VQE_AncientSilo",
+    "Label": "ancient silo",
+    "Description": null,
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Quests Expanded - Deadlife",
+    "modactive": false,
+    "Version": 1
+  },
+  "VREA_PsychicStorm": {
+    "DefName": "VREA_PsychicStorm",
+    "Label": "psychic storm",
+    "Description": "Psychic storm is a supernatural phenomena that occurs during the periods of increased psychic activity.\n\n<i><color=#66E0E4FF>Vanilla Races Expanded - Archon</color></i>",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Races Expanded - Archon",
+    "modactive": false,
+    "Version": 1
+  },
+  "MF_UpperLevelWeather": {
+    "DefName": "MF_UpperLevelWeather",
+    "Label": "upper level",
+    "Description": "Placeholder.\n\n<i><color=#66E0E4FF>MultiFloors</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "MultiFloors",
+    "modactive": false,
     "Version": 1
   }
 }
