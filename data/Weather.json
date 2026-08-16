@@ -8,7 +8,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Fog": {
@@ -20,7 +20,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Rain": {
@@ -32,7 +32,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DryThunderstorm": {
@@ -44,7 +44,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "RainyThunderstorm": {
@@ -56,7 +56,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FoggyRain": {
@@ -68,7 +68,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SnowHard": {
@@ -80,7 +80,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SnowGentle": {
@@ -92,7 +92,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BloodRain": {
@@ -104,7 +104,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Windy": {
@@ -116,7 +116,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "ToxRain": {
@@ -128,7 +128,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Sandstorm": {
@@ -140,7 +140,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BlindFog": {
@@ -152,7 +152,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Overcast": {
@@ -164,7 +164,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Blizzard": {
@@ -176,7 +176,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "TorrentialRain": {
@@ -188,7 +188,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VPE_Hurricane": {
@@ -200,7 +200,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Psycasts Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AB_RedFog": {
@@ -212,7 +212,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Alpha Biomes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AB_VolcanicAsh": {
@@ -224,7 +224,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Alpha Biomes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AB_VolcanicAshRain": {
@@ -236,7 +236,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Alpha Biomes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AB_ForsakenNight": {
@@ -248,7 +248,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Alpha Biomes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AB_ForsakenRainyNight": {
@@ -260,7 +260,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Alpha Biomes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AB_ForsakenThunderstorm": {
@@ -272,7 +272,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Alpha Biomes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AB_AcidRainWeather": {
@@ -284,7 +284,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Alpha Biomes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AB_PetalStorms": {
@@ -296,7 +296,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Alpha Biomes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AB_ForsakenNight_Alternate": {
@@ -308,7 +308,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Alpha Biomes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AB_ForsakenRainyNight_Alternate": {
@@ -320,7 +320,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Alpha Biomes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "AB_ForsakenThunderstorm_Alternate": {
@@ -332,7 +332,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Alpha Biomes",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "RG_Windy": {
@@ -344,7 +344,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "ReGrowth 2",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "RG_Drizzle": {
@@ -356,7 +356,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "ReGrowth 2",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "RG_FogStorm": {
@@ -368,7 +368,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "ReGrowth 2",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "RG_FoggySnow": {
@@ -380,7 +380,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "ReGrowth 2",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VGE_DustCloud": {
@@ -416,7 +416,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Furniture Expanded - Power",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VQEA_AncientComplex": {
@@ -440,7 +440,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "More Ritual Rewards",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_Whiteout": {
@@ -452,7 +452,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_Swelter": {
@@ -464,7 +464,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_Inferno": {
@@ -476,7 +476,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_PsychicRain": {
@@ -488,7 +488,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_LongNight": {
@@ -500,7 +500,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_FertileRains": {
@@ -512,7 +512,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Landmarks Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_DustStorm": {
@@ -524,7 +524,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Landmarks Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VPEH_Bloodstorm": {
@@ -536,7 +536,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Psycasts Expanded - Hemosage",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VQE_AncientSilo": {
