@@ -1,7 +1,7 @@
 {
   "Human": {
     "DisplayName": "human",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -25147,7 +25147,10 @@
       "VRE_Animakin": 240.0,
       "VRE_Poluxkin": 240.0,
       "VRE_Boarskin": 240.0,
-      "VRESaurids_Saurid": 240.0
+      "VRESaurids_Saurid": 240.0,
+      "Gnoblin": 240.0,
+      "HalfGhoulXenotype": 240.0,
+      "RE_Elve": 240.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -25220,7 +25223,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_Gorilla": {
@@ -25957,7 +25963,10 @@
       "VRE_Animakin": 375.0,
       "VRE_Poluxkin": 375.0,
       "VRE_Boarskin": 375.0,
-      "VRESaurids_Saurid": 375.0
+      "VRESaurids_Saurid": 375.0,
+      "Gnoblin": 375.0,
+      "HalfGhoulXenotype": 375.0,
+      "RE_Elve": 375.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -26030,7 +26039,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_Armadillo": {
@@ -36973,7 +36985,10 @@
       "VRE_Animakin": 750.0,
       "VRE_Poluxkin": 750.0,
       "VRE_Boarskin": 750.0,
-      "VRESaurids_Saurid": 750.0
+      "VRESaurids_Saurid": 750.0,
+      "Gnoblin": 750.0,
+      "HalfGhoulXenotype": 750.0,
+      "RE_Elve": 750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -37046,7 +37061,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_VFEI2_Patriarch": {
@@ -46207,7 +46225,10 @@
       "VRE_Animakin": 15.0,
       "VRE_Poluxkin": 15.0,
       "VRE_Boarskin": 15.0,
-      "VRESaurids_Saurid": 15.0
+      "VRESaurids_Saurid": 15.0,
+      "Gnoblin": 15.0,
+      "HalfGhoulXenotype": 15.0,
+      "RE_Elve": 15.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -46280,7 +46301,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_GR_FleshMonstrosity": {
@@ -56575,7 +56599,10 @@
       "VRE_Animakin": 410.0,
       "VRE_Poluxkin": 410.0,
       "VRE_Boarskin": 410.0,
-      "VRESaurids_Saurid": 410.0
+      "VRESaurids_Saurid": 410.0,
+      "Gnoblin": 410.0,
+      "HalfGhoulXenotype": 410.0,
+      "RE_Elve": 410.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -56648,7 +56675,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_GR_Squirralope": {
@@ -61759,7 +61789,10 @@
       "VRE_Animakin": 300.0,
       "VRE_Poluxkin": 300.0,
       "VRE_Boarskin": 300.0,
-      "VRESaurids_Saurid": 300.0
+      "VRESaurids_Saurid": 300.0,
+      "Gnoblin": 300.0,
+      "HalfGhoulXenotype": 300.0,
+      "RE_Elve": 300.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -61832,7 +61865,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_AEXP_CatBengal": {
@@ -74646,7 +74682,7 @@
     "BasePrice": 1125,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
