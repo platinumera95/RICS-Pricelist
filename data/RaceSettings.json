@@ -103,7 +103,7 @@
   },
   "BS_Centaur": {
     "DisplayName": "centauroid",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -187,7 +187,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -260,7 +263,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "BS_HumanFouramed": {
@@ -427,7 +433,7 @@
   },
   "BS_Naga": {
     "DisplayName": "snake-person",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -511,7 +517,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -584,12 +593,15 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "BS_Marlith": {
     "DisplayName": "six-armed snake-person",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2000,
     "MinAge": 16,
@@ -673,7 +685,10 @@
       "VRE_Animakin": 2000.0,
       "VRE_Poluxkin": 2000.0,
       "VRE_Boarskin": 2000.0,
-      "VRESaurids_Saurid": 2000.0
+      "VRESaurids_Saurid": 2000.0,
+      "Gnoblin": 2000.0,
+      "HalfGhoulXenotype": 2000.0,
+      "RE_Elve": 2000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -746,7 +761,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "BS_UrbMech": {
@@ -913,7 +931,7 @@
   },
   "BS_SixArmedHuman": {
     "DisplayName": "Six Armed Human",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -997,7 +1015,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -1070,7 +1091,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "BS_SpiderPersonRace": {
@@ -1237,7 +1261,7 @@
   },
   "BS_HumanoidWithTail": {
     "DisplayName": "tailed humanoid",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -1321,7 +1345,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -1394,12 +1421,15 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "BS_HumanoidWithWings": {
     "DisplayName": "winged humanoid",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -1483,7 +1513,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -1556,7 +1589,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "BS_JustAHead": {
@@ -1885,7 +1921,7 @@
   },
   "BS_InsectoidHumanoid_FourArmed": {
     "DisplayName": "insect-like humanoid",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -1969,7 +2005,10 @@
       "VRE_Animakin": 1500.0,
       "VRE_Poluxkin": 1500.0,
       "VRE_Boarskin": 1500.0,
-      "VRESaurids_Saurid": 1500.0
+      "VRESaurids_Saurid": 1500.0,
+      "Gnoblin": 1500.0,
+      "HalfGhoulXenotype": 1500.0,
+      "RE_Elve": 1500.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -2042,7 +2081,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "BS_SynthRace": {
@@ -3349,7 +3391,7 @@
   },
   "G_CentaurFourArm": {
     "DisplayName": "Centauroid with four arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -3433,7 +3475,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -3506,12 +3551,15 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "G_CentaurFourArmWinged": {
     "DisplayName": "Centauroid with four arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -3595,7 +3643,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -3668,12 +3719,15 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "G_CentaurSixArm": {
     "DisplayName": "Centauroid with six arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -3757,7 +3811,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -3830,12 +3887,15 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "G_CentaurSixArmWinged": {
     "DisplayName": "Centauroid with six arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -3919,7 +3979,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -3992,12 +4055,15 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "G_CentaurWinged": {
     "DisplayName": "Centauroid with wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -4081,7 +4147,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -4154,7 +4223,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "G_SnekFourArm": {
@@ -5053,7 +5125,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -5126,7 +5201,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "G_SpooderFourArmWinged": {
@@ -5215,7 +5293,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -5288,7 +5369,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "G_SpooderSixArm": {
@@ -5779,7 +5863,7 @@
   },
   "G_FourArmTailed": {
     "DisplayName": "Four-armed humanlike with a tail",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -5863,7 +5947,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -5936,12 +6023,15 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "G_FourArmTailedWinged": {
     "DisplayName": "Four-armed humanlike with a tail and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -6025,7 +6115,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -6098,12 +6191,15 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "G_FourArmWinged": {
     "DisplayName": "Four-armed humanlike with wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -6187,7 +6283,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -6260,12 +6359,15 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "G_SixArmTailed": {
     "DisplayName": "Six-armed humanlike with a tail",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -6349,7 +6451,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -6422,12 +6527,15 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "G_SixArmTailedWinged": {
     "DisplayName": "Six-armed humanlike with a tail and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -6511,7 +6619,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -6584,12 +6695,15 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "G_SixArmWinged": {
     "DisplayName": "Six-armed humanlike with wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -6673,7 +6787,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -6746,12 +6863,15 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "G_TailedWinged": {
     "DisplayName": "Tailed humanlike with wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -6835,7 +6955,10 @@
       "VRE_Animakin": 1750.0,
       "VRE_Poluxkin": 1750.0,
       "VRE_Boarskin": 1750.0,
-      "VRESaurids_Saurid": 1750.0
+      "VRESaurids_Saurid": 1750.0,
+      "Gnoblin": 1750.0,
+      "HalfGhoulXenotype": 1750.0,
+      "RE_Elve": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -6908,7 +7031,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "M_MechaCentaurFourArm": {
@@ -18013,7 +18139,10 @@
       "VRE_Animakin": 375.0,
       "VRE_Poluxkin": 375.0,
       "VRE_Boarskin": 375.0,
-      "VRESaurids_Saurid": 375.0
+      "VRESaurids_Saurid": 375.0,
+      "Gnoblin": 375.0,
+      "HalfGhoulXenotype": 375.0,
+      "RE_Elve": 375.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -18086,7 +18215,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_Pig": {
@@ -19309,7 +19441,10 @@
       "VRE_Animakin": 525.0,
       "VRE_Poluxkin": 525.0,
       "VRE_Boarskin": 525.0,
-      "VRESaurids_Saurid": 525.0
+      "VRESaurids_Saurid": 525.0,
+      "Gnoblin": 525.0,
+      "HalfGhoulXenotype": 525.0,
+      "RE_Elve": 525.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -19382,7 +19517,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_Megasloth": {
@@ -22717,7 +22855,10 @@
       "VRE_Animakin": 1.0,
       "VRE_Poluxkin": 1.0,
       "VRE_Boarskin": 1.0,
-      "VRESaurids_Saurid": 1.0
+      "VRESaurids_Saurid": 1.0,
+      "Gnoblin": 1500.0,
+      "HalfGhoulXenotype": 1500.0,
+      "RE_Elve": 1500.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -22790,7 +22931,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_WasteRat": {
@@ -24661,7 +24805,10 @@
       "VRE_Animakin": 10500.0,
       "VRE_Poluxkin": 10500.0,
       "VRE_Boarskin": 10500.0,
-      "VRESaurids_Saurid": 10500.0
+      "VRESaurids_Saurid": 10500.0,
+      "Gnoblin": 10500.0,
+      "HalfGhoulXenotype": 10500.0,
+      "RE_Elve": 10500.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -24734,7 +24881,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_Muskox": {
@@ -26293,7 +26443,10 @@
       "VRE_Animakin": 525.0,
       "VRE_Poluxkin": 525.0,
       "VRE_Boarskin": 525.0,
-      "VRESaurids_Saurid": 525.0
+      "VRESaurids_Saurid": 525.0,
+      "Gnoblin": 525.0,
+      "HalfGhoulXenotype": 525.0,
+      "RE_Elve": 525.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -26366,7 +26519,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_Bullfrog": {
@@ -34957,7 +35113,7 @@
   },
   "HL_VFEI2_Acidspitter": {
     "DisplayName": "acidspitter",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -35041,7 +35197,10 @@
       "VRE_Animakin": 1125.0,
       "VRE_Poluxkin": 1125.0,
       "VRE_Boarskin": 1125.0,
-      "VRESaurids_Saurid": 1125.0
+      "VRESaurids_Saurid": 1125.0,
+      "Gnoblin": 1125.0,
+      "HalfGhoulXenotype": 1125.0,
+      "RE_Elve": 1125.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -35114,7 +35273,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_VFEI2_Boomtick": {
@@ -39018,7 +39180,7 @@
     "BasePrice": 6000000,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -39097,7 +39259,10 @@
       "VRE_Animakin": 6000000.0,
       "VRE_Poluxkin": 6000000.0,
       "VRE_Boarskin": 6000000.0,
-      "VRESaurids_Saurid": 6000000.0
+      "VRESaurids_Saurid": 6000000.0,
+      "Gnoblin": 6000000.0,
+      "HalfGhoulXenotype": 6000000.0,
+      "RE_Elve": 6000000.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -39170,7 +39335,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_GR_Chickenbear": {
@@ -41365,7 +41533,10 @@
       "VRE_Animakin": 410.0,
       "VRE_Poluxkin": 410.0,
       "VRE_Boarskin": 410.0,
-      "VRESaurids_Saurid": 410.0
+      "VRESaurids_Saurid": 410.0,
+      "Gnoblin": 410.0,
+      "HalfGhoulXenotype": 410.0,
+      "RE_Elve": 410.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -41438,7 +41609,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_GR_Wolfbear": {
@@ -44443,7 +44617,10 @@
       "VRE_Animakin": 1275.0,
       "VRE_Poluxkin": 1275.0,
       "VRE_Boarskin": 1275.0,
-      "VRESaurids_Saurid": 1275.0
+      "VRESaurids_Saurid": 1275.0,
+      "Gnoblin": 1275.0,
+      "HalfGhoulXenotype": 1275.0,
+      "RE_Elve": 1275.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -44516,7 +44693,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_GR_Boomhorse": {
@@ -45901,7 +46081,10 @@
       "VRE_Animakin": 1125.0,
       "VRE_Poluxkin": 1125.0,
       "VRE_Boarskin": 1125.0,
-      "VRESaurids_Saurid": 1125.0
+      "VRESaurids_Saurid": 1125.0,
+      "Gnoblin": 1125.0,
+      "HalfGhoulXenotype": 1125.0,
+      "RE_Elve": 1125.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -45974,7 +46157,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_GR_Fleshling": {
@@ -46141,7 +46327,7 @@
   },
   "HL_GR_AberrantFleshbeast": {
     "DisplayName": "aberrant fleshbeast",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 15,
     "MinAge": 16,
@@ -47851,7 +48037,10 @@
       "VRE_Animakin": 260.0,
       "VRE_Poluxkin": 260.0,
       "VRE_Boarskin": 260.0,
-      "VRESaurids_Saurid": 260.0
+      "VRESaurids_Saurid": 260.0,
+      "Gnoblin": 260.0,
+      "HalfGhoulXenotype": 260.0,
+      "RE_Elve": 260.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -47924,7 +48113,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_GR_Manbear": {
@@ -53683,7 +53875,10 @@
       "VRE_Animakin": 225.0,
       "VRE_Poluxkin": 225.0,
       "VRE_Boarskin": 225.0,
-      "VRESaurids_Saurid": 225.0
+      "VRESaurids_Saurid": 225.0,
+      "Gnoblin": 225.0,
+      "HalfGhoulXenotype": 225.0,
+      "RE_Elve": 225.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -53756,7 +53951,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_GR_ParagonMuffalo": {
@@ -54733,7 +54931,7 @@
   },
   "HL_GR_ParagonHumanoid": {
     "DisplayName": "humanoid paragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1275,
     "MinAge": 16,
@@ -54817,7 +55015,10 @@
       "VRE_Animakin": 1275.0,
       "VRE_Poluxkin": 1275.0,
       "VRE_Boarskin": 1275.0,
-      "VRESaurids_Saurid": 1275.0
+      "VRESaurids_Saurid": 1275.0,
+      "Gnoblin": 1275.0,
+      "HalfGhoulXenotype": 1275.0,
+      "RE_Elve": 1275.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -54890,7 +55091,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_GR_ParagonFeline": {
@@ -55141,7 +55345,10 @@
       "VRE_Animakin": 1125.0,
       "VRE_Poluxkin": 1125.0,
       "VRE_Boarskin": 1125.0,
-      "VRESaurids_Saurid": 1125.0
+      "VRESaurids_Saurid": 1125.0,
+      "Gnoblin": 1125.0,
+      "HalfGhoulXenotype": 1125.0,
+      "RE_Elve": 1125.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -55214,7 +55421,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_GR_Bearodile": {
@@ -57739,7 +57949,10 @@
       "VRE_Animakin": 825.0,
       "VRE_Poluxkin": 825.0,
       "VRE_Boarskin": 825.0,
-      "VRESaurids_Saurid": 825.0
+      "VRESaurids_Saurid": 825.0,
+      "Gnoblin": 825.0,
+      "HalfGhoulXenotype": 825.0,
+      "RE_Elve": 825.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -57812,7 +58025,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_GR_Bearchicken": {
@@ -58387,7 +58603,10 @@
       "VRE_Animakin": 405.0,
       "VRE_Poluxkin": 405.0,
       "VRE_Boarskin": 405.0,
-      "VRESaurids_Saurid": 405.0
+      "VRESaurids_Saurid": 405.0,
+      "Gnoblin": 405.0,
+      "HalfGhoulXenotype": 405.0,
+      "RE_Elve": 405.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -58460,7 +58679,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_GR_Bearcat": {
@@ -58549,7 +58771,10 @@
       "VRE_Animakin": 600.0,
       "VRE_Poluxkin": 600.0,
       "VRE_Boarskin": 600.0,
-      "VRESaurids_Saurid": 600.0
+      "VRESaurids_Saurid": 600.0,
+      "Gnoblin": 600.0,
+      "HalfGhoulXenotype": 600.0,
+      "RE_Elve": 600.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -58622,7 +58847,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_GR_Bearman": {
@@ -58711,7 +58939,10 @@
       "VRE_Animakin": 975.0,
       "VRE_Poluxkin": 975.0,
       "VRE_Boarskin": 975.0,
-      "VRESaurids_Saurid": 975.0
+      "VRESaurids_Saurid": 975.0,
+      "Gnoblin": 975.0,
+      "HalfGhoulXenotype": 975.0,
+      "RE_Elve": 975.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -58784,7 +59015,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_VQEA_Spliceling": {
@@ -67627,7 +67861,10 @@
       "VRE_Animakin": 1160.0,
       "VRE_Poluxkin": 1160.0,
       "VRE_Boarskin": 1160.0,
-      "VRESaurids_Saurid": 1160.0
+      "VRESaurids_Saurid": 1160.0,
+      "Gnoblin": 1160.0,
+      "HalfGhoulXenotype": 1160.0,
+      "RE_Elve": 1160.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -67700,7 +67937,10 @@
       "VRE_Animakin": true,
       "VRE_Poluxkin": true,
       "VRE_Boarskin": true,
-      "VRESaurids_Saurid": true
+      "VRESaurids_Saurid": true,
+      "Gnoblin": true,
+      "HalfGhoulXenotype": true,
+      "RE_Elve": true
     }
   },
   "HL_AEXP_IndianElephant": {
